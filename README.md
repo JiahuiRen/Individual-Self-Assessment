@@ -2,7 +2,7 @@
 
 # Self-Assessment
 
-
+The goal to take this bootcamps is develop my own IT skills in order to help me for my job seeking in financial analyst areas. Before I took this program, I was no idea about python, machine learning, SQL, etc. After taking the program, I am able to solve some basic issue at least. However, during the program, I always come across with some errors which I cannot understand why, even though I followed the instruction strickly. But the Ask BCS was helping me a lot while I came across with any issue. For each of the assignment, there always starter code provided, but I do not feel confident if there is no starter code for me for my future work. I believe  I still need some hard work on thoses technique I learned and improve my self problem solving skills.
 
 # Team Assessment
 
